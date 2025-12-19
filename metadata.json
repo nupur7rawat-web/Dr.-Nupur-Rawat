@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PureCheck: Ingredient Safety Analyzer",
+  "description": "A professional-grade analyzer that scans product ingredient lists for potential health risks, endocrine disruptors, and skin irritants, providing clear, science-backed safety insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
